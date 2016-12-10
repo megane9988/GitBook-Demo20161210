@@ -1,0 +1,21 @@
+
+# WordPress ======================================
+
+wordpress/*
+!wordpress/wp-content/
+
+wordpress/wp-content/*
+!wordpress/wp-content/plugins/
+!wordpress/wp-content/themes/
+
+wordpress/wp-content/plugins/akismet/*
+wordpress/wp-content/plugins/hello.php
+wordpress/wp-content/plugins/index.php
+wordpress/wp-content/plugins/wp-multibyte-patch/*
+
+wordpress/wp-content/themes/index.php
+wordpress/wp-content/themes/twentyfifteen/*
+wordpress/wp-content/themes/twentyfourteen/*
+wordpress/wp-content/themes/twentysixteen/*
+
+# ================================================
